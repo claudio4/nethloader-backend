@@ -1,1 +1,2 @@
-nethloader-backend
+# Nethloader backend
+This is **not** the official implementation of the Nethloader's backend **neither it implements the same API**, this is a new implementation from scratch which may, or may not, become the new Nethloader in the future.
